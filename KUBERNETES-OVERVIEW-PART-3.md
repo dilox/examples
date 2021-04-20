@@ -41,7 +41,7 @@ kubectl delete -f redis-master-deployment.yaml
 kubectl delete -f redis-master-service.yaml
 kubectl delete -f redis-slave-deployment.yaml
 kubectl delete -f redis-slave-service.yaml
-popd guestbook
+popd
 ```
 - Deploy wordpress
 ```
